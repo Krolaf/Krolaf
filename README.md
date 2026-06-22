@@ -82,6 +82,17 @@ Current projects include:
 - Distributed systems
 
 ---
+## 📈 GitHub Activity Graph
+
+[![Jérôme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krolaf&theme=tokyo-night)](https://github.com/Krolaf)
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Krolaf/Krolaf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
 
 # 📫 Contact
 
