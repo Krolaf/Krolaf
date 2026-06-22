@@ -8,13 +8,25 @@ Passionate about software architecture, web development, DevOps and game develop
 
 I particularly enjoy creating scalable applications, APIs, Docker infrastructures, and interactive experiences with Unity.
 
-Currently working on:
+## 🌴 Karay Studio
 
-- 🏰 **Medieval Tower** — RPG & simulation game made with Unity.
-- 🍻 **Medieval Tavern** — Real-time social platform inspired by Discord.
-- ☁️ Self-hosted infrastructure with Docker, Nginx Proxy Manager, MongoDB and LiveKit.
-- 📚 Continuously improving my skills through hands-on projects.
+Karay Studio is an independent software and game development studio focused on creating meaningful digital experiences.
 
+The studio explores several areas including:
+
+- 🎮 Game development with Unity
+- 🌐 Web applications and backend services
+- ☁️ Self-hosted infrastructures and DevOps
+- 📱 Cross-platform and interactive experiences
+- 🛠 Tools and software built around long-term projects
+
+Karay Studio's philosophy is centered around learning, craftsmanship, and building projects that are designed to evolve over time.
+
+Current projects include:
+
+- 🏰 Medieval Tower — an immersive RPG and simulation game.
+- 🍻 Medieval Tavern — a real-time social platform inspired by community spaces.
+- 🚀 Various experimental tools and software projects.
 ---
 
 # 💻 Tech Stack
@@ -37,7 +49,6 @@ Currently working on:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
@@ -52,32 +63,6 @@ Currently working on:
 
 ---
 
-# 🛠 Featured Projects
-
-## 🍻 Medieval Tavern
-
-Real-time social platform inspired by Discord.
-
-- Voice chat with LiveKit
-- Channels and servers
-- Authentication system
-- Dockerized infrastructure
-- MongoDB Replica Set
-
----
-
-## 🏰 Medieval Tower
-
-First-person RPG & simulation game.
-
-- Unity + C#
-- Exploration and crafting
-- Vertical progression through tower floors
-- Multiplayer features planned
-- Shared ecosystem with Medieval Tavern
-
----
-
 ## 🌐 Self-hosted Infrastructure
 
 - Ubuntu VPS
@@ -85,8 +70,6 @@ First-person RPG & simulation game.
 - Nginx Proxy Manager
 - MongoDB Replica Set
 - LiveKit
-- Portainer
-- CI/CD workflows
 
 ---
 
@@ -95,7 +78,6 @@ First-person RPG & simulation game.
 - Software architecture
 - Advanced DevOps
 - System design
-- Symfony API Platform
 - Game backend architecture
 - Distributed systems
 
@@ -104,9 +86,7 @@ First-person RPG & simulation game.
 # 📫 Contact
 
 - 📧 contact@medievaltower.com
-- 🌐 https://medievaltower.com
-- 🌐 https://medievaltavern.fr
-
+- https://www.linkedin.com/in/jerome-munier-940234293
 ---
 
 > "Code, Learn, Build, Improve."
