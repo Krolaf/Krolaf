@@ -30,9 +30,9 @@ Current projects include:
 ---
 
 # 💻 Tech Stack
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -48,8 +48,6 @@ Current projects include:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
 
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
@@ -101,7 +99,7 @@ Current projects include:
 # 📫 Contact
 
 - 📧 contact@medievaltower.com
-- https://www.linkedin.com/in/jerome-munier-940234293
+- 💼 [LinkedIn](https://www.linkedin.com/in/jerome-munier-940234293)
 ---
 
 > "Code, Learn, Build, Improve."
